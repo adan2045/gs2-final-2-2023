@@ -1,0 +1,4 @@
+uno de los tipos de requisitos son tecnicos un ejemplo puede ser los requisitos de ram, disco
+o placa de video 
+ el otro tipo son los conocimientos de personas, en base a capacitacion,
+ conocimientos de programas o de idiomas, etc 
