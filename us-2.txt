@@ -1,0 +1,15 @@
+ SCRUM es un framework que permite el desarrollo agil de software (entre otros ambitos)
+ que permite avanzar desde diferentes puntos a diferencia de otros sistemas 
+ como el desarrollo en cascada  (en el cual no se avanza con otro tramo
+  hasta que no se finalice el anterior) 
+ Con este metodo se pactan los objetivos en cada spring el cual dura aproximadamente 2 semanas
+ se reparten las tareas en la panning y luego se hacer reuniones diarias para ver 
+ como van avanzando, que van a hacer en el dia y en que se trabaron. luego en los review
+ presentan los avances y ven que respuesta obtienen y se vuelven a repartir los trabajos
+  de ser necesario.
+  la retro es mas para que el equipo entre en consciencia que hizo mal y que podria mejorar 
+
+
+los actores Own product, Scrum master, y el equipo de desarrollo
+los artefactos, product backlog, spring backlog y aumentos 
+las ceremonias, spring planing, Daily, review, y retrospectiva

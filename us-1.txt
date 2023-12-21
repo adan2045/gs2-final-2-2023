@@ -1,0 +1,3 @@
+como usuario,
+quiero poder registarme en la pagina 
+para que mi informacion y lo que voy a hacer no sea de acceso publico
